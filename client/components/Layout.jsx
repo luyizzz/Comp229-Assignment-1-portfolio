@@ -4,7 +4,7 @@ import logo from './logo.png';
 
 export default function Layout() {
  return (
- <>
+ <div>
  <h1>My Portfolio</h1>
  <nav>
 
@@ -16,7 +16,7 @@ to="/project">Project</Link>| <Link to="/service">Service</Link>| <Link to="/con
  <br/>
  <hr />
 
- </>
+ </div>
 
  );
  }
