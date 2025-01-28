@@ -1,3 +1,10 @@
+/* 
+* File Name: App.jsx
+* Student Name: Louis| LU-HSIANG WANG
+* Student ID: 301476880 
+* Date: January 29, 2025 
+*/
+
 import React from 'react';
  import { BrowserRouter as Router } from 'react-router-dom';
  //import { ThemeProvider } from '@material-ui/styles';

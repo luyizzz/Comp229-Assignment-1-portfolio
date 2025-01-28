@@ -1,5 +1,13 @@
+/* 
+* File Name: about.jsx
+* Student Name: Louis| LU-HSIANG WANG
+* Student ID: 301476880 
+* Date: January 29, 2025 
+*/
+
 export default function About() {
     return (
+        // html
         <div>
         <h2>About me</h2>
         <h3>LU-HSIANG WANG </h3>
@@ -9,5 +17,6 @@ export default function About() {
             University major on Computer Science</p>
         <a href="/Resume.pdf" target="_blank" rel="noopener noreferrer">View my resume</a>
         </div>
+        // html
     );
 }

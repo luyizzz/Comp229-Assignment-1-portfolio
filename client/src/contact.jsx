@@ -1,8 +1,16 @@
+/* 
+* File Name: contact.jsx
+* Student Name: Louis| LU-HSIANG WANG
+* Student ID: 301476880 
+* Date: January 29, 2025 
+*/
+
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import './index.css';
 
 export default function Contact() {
+    //css
     const [formData, setFormData] = useState({
         firstName: '',
         lastName: '',
@@ -29,6 +37,7 @@ export default function Contact() {
     };
 
     return (
+        //html
         <div className="panel">
             <h3>Contact Information</h3>
             <p>Name: LU-HSIANG WANG (Louis)</p>

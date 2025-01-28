@@ -1,5 +1,13 @@
+/* 
+* File Name: project.jsx
+* Student Name: Louis| LU-HSIANG WANG
+* Student ID: 301476880 
+* Date: January 29, 2025 
+*/
+
 export default function Project() {
     return (
+        //html
         <div>
         <h2>Personall projects</h2>
         <h3>Project 1</h3>

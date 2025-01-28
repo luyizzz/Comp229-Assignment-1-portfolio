@@ -1,3 +1,10 @@
+/* 
+* File Name: MainRouter.jsx
+* Student Name: Louis| LU-HSIANG WANG
+* Student ID: 301476880 
+* Date: January 29, 2025 
+*/
+
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Home from './components/Home'
